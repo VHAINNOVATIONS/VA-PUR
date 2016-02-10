@@ -1,0 +1,260 @@
+By agreeing to access VA’s Pressure Ulcer Resource (VA PUR) mobile
+application (“Application”) on your device and by
+subsequent use of the Licensed Software, you agree to
+comply with the terms of this general End User License
+Agreement ("EULA") and Notice of Privacy Practices
+(“Notice”). If you do not agree to the terms of this EULA
+and Notice, do not access or use the Licensed Software
+from your device. This EULA and Notice applies to any
+upgrades and supplements to the original Licensed
+Software provided and is referred to on your opening
+screen. A copy of the EULA is available from within the
+Licensed Software. It is your responsibility to review any
+future changes to the EULA and to refrain from using the
+software if you do not agree to the terms.
+
+The Licensed Software is owned by VA. The Licensed
+Software is licensed, not sold, only on the terms of this
+EULA. Acceptance and use of the software indicates your
+acceptance of the terms and conditions of this EULA.
+
+Upon accessing the Licensed Software, you will acquire the
+right to use the Licensed Software, directly from VA. You
+assume responsibility for the selection of the program to
+achieve your intended results, and for the access, use and
+results obtained from the Licensed Software.
+
+VA and you acknowledge that this Agreement is concluded
+between VA and you only, and not with your hardware
+manufacturer, operating system vendor, or organization
+that provided the mechanism to access the software. VA is
+solely responsible for the Licensed Software and its
+content.
+
+In consideration of your acceptance of the terms and
+conditions contained in this EULA, VA grants you a nonexclusive
+license to use the Licensed Software and the
+associated documentation for your own needs on any
+iPhone or iPod touch that you own or control and as
+permitted by the Usage Rules set forth in the App Store
+Terms of Service. You are not licensed to rent, lease,
+transfer, or distribute the Licensed Software.
+
+Title to the Licensed Software, including media and
+documentation, remain with VA. You may not copy or
+reproduce, except as supported by the Licensed Software,
+in whole or in part, or as is necessary for back-up or
+archival purposes. You may not reverse engineer, translate,
+disassemble, decompile the software or create similar
+software in whole or in part.
+
+The license is effective upon acceptance and access to the
+Licensed Software and shall continue with any subsequent
+use of the application. VA has the right to terminate this
+Agreement if you fail to comply with any term or condition
+of this EULA. Upon termination you shall stop all use of
+the Licensed Software.
+
+Confidentiality of the Licensed Software will survive any
+termination of this EULA, to include the application,
+design, and functionality.
+
+This Licensed Software is distributed free, AS IS, in the
+hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR
+PURPOSE. Your hardware manufacturer, operating system
+vendor, or organization that provided the mechanism has
+no warranty obligation whatsoever with respect to the
+Licensed Software, and any other claims, losses, liabilities,
+damages, costs or expenses attributable to any failure to
+conform to any warranty will be VA’s sole responsibility.
+
+In no event will VA be liable for any damages, including for
+loss of data, loss of use, or indirect, special, incidental or
+consequential damages in any way related to or arising out
+of the use of the Licensed Software whether based upon
+warranty, contract, or otherwise, whether or not injury was
+sustained by persons or property or otherwise, and whether
+or not loss was sustained from, or arose out of use of
+Licensed Software. You agree to waive any and all claims
+against the U.S. Government, VA, its employees, its
+contractors, their subcontractors, and shall indemnify and
+hold harmless the U.S. Government, its contractors, and
+their subcontractors for any damage that you may incur
+from your use of the Licensed Software. VA, not your
+hardware manufacturer, operating system vendor, or
+organization that provided the mechanism to access the
+Licensed Software, is responsible for addressing any claims
+by you or any third party relating to the Licensed Software
+or your possession and/or use of that Licensed Software,
+including, but not limited to: (i) product liability claims;
+(ii) any claim that the Licensed Software fails to conform to
+any applicable legal or regulatory requirement; and (iii)
+claims arising under consumer protection or similar
+legislation. The EULA does not limit VA’s liability to you
+beyond what is permitted by applicable law.
+
+VA shall be neither liable nor responsible for any
+maintenance or updating of the provided Licensed
+Software, nor for correction of any errors in the Licensed
+Software. The VA may discontinue the Licensed Software,
+potentially, but not necessarily, replacing it with a
+subsequent product. Compatibility of data between
+products is not guaranteed. VA and you acknowledge that
+Apple has no obligation whatsoever to furnish any
+maintenance and support services with respect to the
+Licensed Software.
+
+This Agreement shall be construed and enforced in
+accordance with federal law and each party agrees to be
+subject to those relevant laws for all purposes.
+It is understood and acknowledged that VA has the
+absolute right to obtain injunctive relief to protect VA's
+proprietary rights.
+
+By using the Licensed Software, you further agree that this
+is the complete and exclusive statement of the Agreement
+which supersedes any proposal or prior agreement, oral or
+written, and any other communications relating to the
+subject matter of this EULA.
+
+If any provision of this Agreement is held to be invalid or
+unenforceable, the remaining provisions will not be
+affected.
+
+By agreeing to use VA software that allows you to access
+your health data, you are further agreeing based upon
+individual end-user access permissions to allow the
+application to access and display your available electronic
+personal health information from VA systems after proper
+identification and authentication.
+
+Some applications may provide access to other Web sites
+outside VA control and jurisdiction. When you link to these
+Web sites, your communications no longer are protected by
+our privacy policies. VA is not responsible for the privacy
+practices or the content of non-VA Web sites. We
+encourage you to review the privacy policy or terms and
+conditions of those sites to fully understand what
+information is collected and how it is used.
+
+You have a responsibility to keep your health information
+safe. While VA ensures privacy and security of your
+personal health information while the data is in VA
+systems, VA cannot ensure privacy once you remove a copy
+of your information from a VA system. Once information is
+downloaded, saved, printed, emailed, faxed or shared by
+other method, its protection is up to you. When using an
+Application that allows display of your health information,
+remember that people may see your personal information
+on the screen. Turn the screen away from their view. Do
+not walk away from the mobile device or computer with
+your information showing. Always remember to log off
+when you have finished. If you must write information
+down, keep them in a safe place. If you print copies of your
+personal health information, be careful not to leave it in
+any public places and store copies in a safe place, like a
+locked file cabinet. If you share your personal health
+information with others, VA has no authority to ensure
+these people protect your privacy. Be careful of who you
+give copies of your personal health information, whether
+the information was entered by you or is from a VA system.
+Be sure to destroy printed copies of your health
+information preferably with a shredder. You are
+encouraged to enhance the security of your information by
+taking actions on any mobile device or computer used to
+access your health information.
+
+Recommended actions include but are not limited to:
+- Use a password to protect access to your device. Ensure
+that your password is easy for you to remember but difficult
+for others to guess.
+- Use the autolock feature and/or timeout feature on your
+device.
+- Do not jailbreak your device or download apps from
+sources other than designated app stores as these actions
+may expose you to security risk.
+
+PRIVACY ACT STATEMENT: Use of VA Licensed
+Software by you may involve the collection of individually
+identifiable data that you enter into the Application and
+data about your use of the Application. As authorized by
+38 U.S.C. Section 501, VA is asking you to provide
+information via this Application which may be included
+with other information VA uses to deliver health care to
+you. VA may disclose the information that you entered into
+the Application as permitted by law. VA may make a
+"routine use" disclosure of the information as outlined in
+the Privacy Act systems of records notices and in
+accordance with the Veterans Health Administration (VHA)
+Notice of Privacy Practices. VHA will explain these routine
+uses and privacy practices upon further request. Providing
+the information is voluntary. Failure to furnish your
+identifying information (username and login) when
+required by an Application will prevent you from being
+able to use the Licensed Software, but will not have any
+effect on any other benefits or care to which you may be
+entitled. VA may also use this information to identify users
+of the Licensed Software, and for other purposes
+authorized or required by law.
+
+The Licensed Software transfer of individually identifiable
+data will use secure methods to transmit the data. Data
+collected by the Licensed Software for patient care
+purposes will be securely transmitted into VA data systems
+to be stored as part of your health care records covered
+under a Privacy Act system of records.
+
+You acknowledge that, in the event of any third party claim
+that this software application or your possession and use of
+it infringes that third party’s intellectual property rights,
+VA, not Apple, will be solely responsible for the
+investigation, defense, settlement and discharge of any such
+intellectual property infringement claim.
+
+You represent and warrant that (i) you are not located in a
+in a country that is subject to a U.S. Government embargo,
+or that has been designated by the U.S. Government as a
+“terrorist supporting” country; and (ii) you are not listed
+on any U.S. Government list of prohibited or restricted
+parties.
+
+You and VA acknowledge and agree that your hardware
+manufacturer, operating system vendor, or organization
+that provided the mechanism and their subsidiaries, are
+third party beneficiaries of the EULA, and that, upon your
+acceptance of the terms and conditions of the EULA, your
+hardware manufacturer, operating system vendor, or
+organization that provided the mechanism will have the
+right (and will be deemed to have accepted the right) to
+enforce the EULA against you as a third party beneficiary
+thereof.
+
+DATA USE: Data resulting from the use of the Licensed
+Software will be made available to VA authorized persons
+in the conduct of their official business. Data may be used
+for statistical and management purposes in assessing the
+benefit of this software. Data provided for research
+purposes will be made anonymous so that it is not
+personally identifiable.
+
+DISCLAIMER: The content of this Application is intended
+for use only as an informative tool by the user. It is not, is
+not intended to be, and should not be used in any way as a
+substitute for professional medical advice or training. The
+accuracy of the information provided is not
+guaranteed. The user acknowledges in initiating this
+Application that the information is not meant to diagnose a
+health condition or disease and is not meant to develop a
+health treatment plan. If you are in an emergency or lifethreatening
+medical situation, seek medical assistance
+immediately. Dial emergency number (911 in the USA) for
+emergency medical services.
+
+Contact information for any questions, complaints, or
+claims with respect to this software application:
+
+Name 
+Phone number 
+Email 
